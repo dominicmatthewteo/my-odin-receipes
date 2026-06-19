@@ -1,2 +1,3 @@
 # my-odin-receipes
-Back to basics
+Going back to basics with The Odin Project.
+
